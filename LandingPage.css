@@ -1,0 +1,15 @@
+h2 {
+  font-family: staatliches, cursive;
+  text-align: center;
+}
+
+p,
+form {
+  font-family: 'Montserrat', sans-serif;
+  text-align: center;
+}
+
+input[type='submit'],
+button {
+  font-family: 'Montserrat', sans-serif;
+}
